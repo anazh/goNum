@@ -27,7 +27,7 @@ package goNum_test
 import (
 	"testing"
 
-	"github.com/chfenger/goNum"
+	"github.com/anazh/goNum"
 )
 
 // ShellSort 希尔（Shell）排序法

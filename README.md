@@ -22,7 +22,7 @@ Linux或者Windows
 1. 安装go;
 2. 运行go get命令:
 ```go
-go get github.com/chfenger/goNum
+go get github.com/anazh/goNum
 ```
 ## 2. 下载源码安装
 1. 下载源代码，并解压到指定文件夹（例如“UserDir”）下的src目录或其子目录（例如“UserDir/src/”或“UserDir/src/xxx/xxx/”）下;

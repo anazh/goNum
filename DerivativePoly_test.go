@@ -24,7 +24,7 @@ package goNum_test
 import (
 	"testing"
 
-	"github.com/chfenger/goNum"
+	"github.com/anazh/goNum"
 )
 
 // DerivativePoly 求单变量多项式n阶导数
